@@ -41,9 +41,21 @@ p {
     font-weight: 600;
 }
 
+.header-text {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.main-text {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
 .content {
     display: flex;
-    margin: 140px auto 32px;
+    margin: 200px auto 32px;
     padding: 0 16px;
     max-width: 1800px;
     flex-direction: column;
