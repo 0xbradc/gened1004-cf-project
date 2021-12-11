@@ -8,4 +8,20 @@
     padding-bottom: 50px;
     max-width: 900px;
     text-align: left;
+    text-indent: 45px;
+    line-height: 3;
+}
+
+img {
+    max-height: 400px;
+    max-width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
