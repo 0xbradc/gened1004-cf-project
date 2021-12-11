@@ -13,7 +13,7 @@ This is done according to this StackOverflow post: https://stackoverflow.com/que
 Deployment process was done using this website: https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4
 
 1. Input the following command:
-`ng build --prod --base-href "https://bfc02.github.io/gened1004-cf-project/"`
+```ng build --prod --base-href "https://bfc02.github.io/gened1004-cf-project/"```
 
 2. Input the following command:
-`npx angular-cli-ghpages --dir=dist/gened1004-cf-project`
+```npx angular-cli-ghpages --dir=dist/gened1004-cf-project```
