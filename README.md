@@ -3,6 +3,13 @@
 ## Purpose
 This was a project done for my GENED 1004: Darwinism class in the Fall of 2021 at Harvard University. Its topic is on Cystic Fibrosis.
 
+## Angular Project Setup
+1. Clone the repository.
+2. Navigate terminal to the new project's folder.
+3. Run ```npm install``` in the new directory.
+4. Run ```ng build```
+5. Run ```ng serve --open``` to open on local host 4200.
+
 ## Posting to GitHub Pages
 ### Quick Note
 In order for anything in the assets folder to show up appropriately, we must first delete all spatial references ("../"). 
